@@ -1,13 +1,10 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Acerca de
 layout: single
+permalink: /
 author_profile: true
 ---
 
 Soy un estudiante avanzado de Ingeniería en Computación en la Universidad Nacional de Tres de Febrero (UNTREF), interesado principalmente en el desarrollo e ingeniería de software, llevando a cabo soluciones escalables y mantenibles.
-{: style="margin-top: 2.5em;"}
 
 En busqueda de ampliar mis conocimientos y crecer como profesional.
