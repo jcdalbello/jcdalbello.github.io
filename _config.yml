@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Juan Cruz Dal Bello"
   avatar : "/assets/images/profile-photo.jpeg"
-  bio    : "Estudiante de Ingeniería en Computación, interesado en la ingeniería y desarrollo de software."
+  bio    : "Estudiante de Ingeniería en Computación"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
