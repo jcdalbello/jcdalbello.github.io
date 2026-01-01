@@ -60,9 +60,6 @@ author:
   avatar : "/assets/images/profile-photo.jpeg"
   bio    : "Estudiante de Ingeniería en Computación"
   links:
-    - label: "Website"
-      icon: "fa-solid fa-globe"
-      url: "https://jcdalbello.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://linkedin.com/in/juan-cruz-dal-bello-91b31922a"
@@ -71,7 +68,7 @@ author:
       url: "https://github.com/jcdalbello/"
     - label: "Mail"
       icon: "fa-solid fa-envelope"
-      url: "mailto:juancruzdalbello17@gmail"
+      url: "mailto:juancruzdalbello17@gmail.com"
 
 defaults:
   # _posts

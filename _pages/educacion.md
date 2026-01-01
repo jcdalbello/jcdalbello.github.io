@@ -1,5 +1,5 @@
 ---
-title: "Educacion"
+title: "Educación"
 layout: single
 permalink: /educacion/
 author_profile: true
