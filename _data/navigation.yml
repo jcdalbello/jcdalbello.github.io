@@ -5,7 +5,5 @@ main:
     url: /experiencia/
   - title: "Educación"
     url: /educacion/
-  - title: "Contacto"
-    url: /contacto/
   - title: "CV"
     url: /cv/
