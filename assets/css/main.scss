@@ -1,6 +1,8 @@
 ---
 ---
 
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&family=IBM+Plex+Sans:wght@400;700&display=swap');
 @import "minimal-mistakes";
 
 .page__content p {
@@ -11,4 +13,19 @@
     hyphens: auto;
 }
 
-$global-transition : none;
+body, h1, h2, h3, h4, h5, h6, input, button, textarea, .masthead, .page__footer {
+    font-family: 'IBM Plex Sans', sans-serif !important;
+}
+/*
+body, h1, h2, h3, h4, h5, h6, input, button, textarea, .masthead, .page__footer {
+    font-family: 'Inter', sans-serif !important;
+}
+
+body, h1, h2, h3, h4, h5, h6, input, button, textarea, .masthead, .page__footer {
+    font-family: 'IBM Plex Sans', sans-serif !important;
+}
+
+body, h1, h2, h3, h4, h5, h6, input, button, textarea, .masthead, .page__footer {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+}
+*/

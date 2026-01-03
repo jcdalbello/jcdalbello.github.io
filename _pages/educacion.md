@@ -21,7 +21,7 @@ Título intermedio: Diplomatura Universitaria en Programación
 
 <br>
 
-# Materias aprobadas (UNTREF)
+## Materias aprobadas (UNTREF)
 * Algebra I
 * Algebra II
 * Algoritmos y Programación I
