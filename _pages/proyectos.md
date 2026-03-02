@@ -13,9 +13,9 @@ segunda mitad de la materia y sirvió como evaluación parcial de la misma.
 Esta simple aplicación web implementa una API para el manejo de ofertas y postulaciones de trabajo. Se utiliza
 Redis como base de datos para persistir la información.
 
-![programming.jpg](../assets/images/programming.jpg)
+![programming.jpg](../assets/images/programming.jpeg)
 
-Repositorio: [https://github.com/jcdalbello/api-cine](https://github.com/jcdalbello/ingsoft-tp-final)
+Repositorio: [https://github.com/jcdalbello/ingsoft-tp-final](https://github.com/jcdalbello/ingsoft-tp-final)
 
 ## [API Cine](https://github.com/jcdalbello/api-cine)
 
